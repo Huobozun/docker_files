@@ -1,0 +1,1012 @@
+[
+ {
+  "term": "Gastrointestinal tract",
+  "lang": {
+   "en": "Gastrointestinal tract",
+   "ar": "قناة هضمية",
+   "as": "পাচন নলী",
+   "ast": "Tracto gastrointestinal",
+   "be": "Страўнікава-кішачны тракт",
+   "bn": "পরিপাক নালি",
+   "ca": "Tub digestiu",
+   "ce": "Адаман хьеран-чуьйрийн тракт",
+   "cs": "Trávicí soustava",
+   "es": "Tracto gastrointestinal",
+   "et": "Seedekulgla",
+   "eu": "Traktu gastrointestinal",
+   "fa": "لوله گوارش",
+   "fr": "Appareil digestif",
+   "gor": "Toniya",
+   "hi": "जठरांत्र क्षेत्र",
+   "hif": "Gastrointestinal tract",
+   "hy": "Ստամոքսաղիքային համակարգ",
+   "id": "Saluran pencernaan",
+   "kn": "ಜಠರಗರುಳು ವ್ಯೂಹ",
+   "ko": "위장관계",
+   "ks": "ہَضٕم نٲلؠ",
+   "ku": "Koendama herisê ya mirovan",
+   "ky": "Тамак сиңирүү системасы",
+   "ml": "മനുഷ്യരിലെ പചനവ്യൂഹം",
+   "ms": "Saluran gastrousus",
+   "nl": "Maag-darmstelsel",
+   "nn": "Meltingskanalen",
+   "oc": "Sistèma digestiu",
+   "pl": "Przewód pokarmowy",
+   "pt": "Tubo digestivo",
+   "ru": "Желудочно-кишечный тракт",
+   "simple": "Alimentary canal",
+   "ta": "மனித இரையகக் குடற்பாதை",
+   "th": "ทางเดินอาหาร",
+   "ur": "معدی امعائی حلقہ",
+   "vi": "Ống tiêu hóa",
+   "wuu": "消化道",
+   "zh": "消化道"
+  }
+ },
+ {
+  "term": "Enema",
+  "lang": {
+   "en": "Enema",
+   "ar": "حقنة شرجية",
+   "bg": "Клизма",
+   "ca": "Ènema",
+   "cs": "Klystýr",
+   "da": "Lavement",
+   "de": "Einlauf (Medizin)",
+   "eo": "Klistero",
+   "es": "Enema",
+   "fa": "تنقیه",
+   "fi": "Peräruiske",
+   "fr": "Lavage de l\\'intestin",
+   "gl": "Enema",
+   "he": "חוקן",
+   "id": "Enema",
+   "io": "Klistero",
+   "is": "Stólpípa",
+   "it": "Clistere",
+   "ja": "浣腸",
+   "ka": "ოყნა",
+   "kk": "Клизма",
+   "ko": "관장",
+   "ky": "Клизма",
+   "ml": "എനിമ",
+   "ms": "Enema",
+   "nl": "Klysma",
+   "pl": "Lewatywa",
+   "pt": "Enema",
+   "ro": "Clismă",
+   "ru": "Клизма",
+   "scn": "Cristeriu",
+   "sk": "Klystír",
+   "sr": "Klizma",
+   "sv": "Lavemang",
+   "te": "ఎనిమా",
+   "uk": "Клізма (процедура)",
+   "zh": "灌肠 (医学)"
+  }
+ },
+ {
+  "term": "Respiratory tract",
+  "lang": {
+   "en": "Respiratory tract",
+   "ar": "سبيل تنفسي",
+   "az": "Tənəffüs aparatı",
+   "cs": "Dýchací cesty",
+   "es": "Vía aérea (anatomía)",
+   "et": "Hingamisteed",
+   "eu": "Arnasbide",
+   "fa": "راه هوایی",
+   "fi": "Hengitystiet",
+   "fr": "Voies respiratoires",
+   "hi": "श्वसन पथ",
+   "id": "Saluran napas",
+   "kn": "ಉಸಿರಾಟದ ಮಂಡಲದ ಅಂಗರಚನೆ",
+   "ko": "기도 (의학)",
+   "ku": "Coga henaseyê",
+   "la": "Apparatus respiratorius",
+   "lt": "Kvėpavimo takai",
+   "nl": "Luchtwegen",
+   "pl": "Drogi oddechowe",
+   "pt": "Via respiratória",
+   "se": "Vuoiŋŋahat",
+   "simple": "Respiratory tract",
+   "sl": "Dihalna pot",
+   "sv": "Luftväg",
+   "te": "శ్వాస మార్గము",
+   "vi": "Đường hô hấp",
+   "zh": "呼吸道"
+  }
+ },
+ {
+  "term": "Route of administration",
+  "lang": {
+   "en": "Route of administration",
+   "ar": "طرق إعطاء الدواء",
+   "bs": "Načini primjene lijeka",
+   "ca": "Via d\\'administració",
+   "de": "Applikationsform",
+   "es": "Vías de administración de fármacos",
+   "fa": "روش مصرف دارو",
+   "fi": "Lääkkeen antotapa",
+   "fr": "Voie d\\'administration",
+   "id": "Rute pemberian",
+   "it": "Somministrazione (farmacologia)",
+   "ja": "投与経路",
+   "ku": "Rêsepana dermanan",
+   "mk": "Предлошка:Фармацевтски дозирани форми",
+   "nl": "Toediening",
+   "pt": "Via de administração",
+   "ro": "Cale de administrare",
+   "ru": "Способ введения",
+   "sh": "Način primene leka",
+   "sl": "Aplikacija zdravila",
+   "sr": "Način primene leka",
+   "sv": "Administreringsväg",
+   "ta": "மருந்து பயன்படுத்தப்படும் வழி",
+   "th": "ช่องทางการรับยา",
+   "tl": "Ruta ng administrasyon",
+   "tr": "Uygulama yolu",
+   "uk": "Шляхи введення лікарських засобів",
+   "ur": "عطائی راستہ",
+   "zh": "给药途径"
+  }
+ },
+ {
+  "term": "Subcutaneous injection",
+  "lang": {
+   "en": "Subcutaneous injection",
+   "ar": "حقنة تحت الجلد",
+   "bs": "Potkožna injekcija",
+   "ca": "Injecció subcutània",
+   "de": "Subkutan",
+   "es": "Inyección subcutánea",
+   "fa": "تزریق زیرجلدی",
+   "fr": "Injection sous-cutanée",
+   "id": "Penyuntikan subkutan",
+   "nl": "Subcutane injectie",
+   "no": "Subkutan terapi",
+   "pl": "Zastrzyk podskórny",
+   "pt": "Injeção subcutânea",
+   "ro": "Injecție subcutanată",
+   "sl": "Subkutana aplikacija",
+   "sv": "Subkutan",
+   "th": "การฉีดเข้าชั้นใต้ผิวหนัง",
+   "tr": "Subkutan enjeksiyon",
+   "uk": "Підшкірна ін\\'єкція",
+   "vi": "Tiêm dưới da",
+   "zh": "皮下注射"
+  }
+ },
+ {
+  "term": "Intramuscular injection",
+  "lang": {
+   "en": "Intramuscular injection",
+   "ar": "حقن عضلي",
+   "bs": "Unutarmišićna injekcija",
+   "ca": "Injecció intramuscular",
+   "cs": "Nitrosvalová aplikace",
+   "da": "Intramuskulær administration",
+   "de": "Intramuskuläre Injektion",
+   "el": "Ενδομυϊκή ένεση",
+   "es": "Inyección intramuscular",
+   "et": "Lihasesisene süstimine",
+   "fa": "تزریق عضلانی",
+   "fi": "Intramuskulaarinen",
+   "fr": "Injection intramusculaire",
+   "id": "Penyuntikan intraotot",
+   "it": "Iniezione intramuscolare",
+   "ja": "筋肉内注射",
+   "ko": "근육 주사",
+   "ms": "Suntikan intraotot",
+   "nl": "Intramusculair",
+   "no": "Intramuskulær injeksjon",
+   "pl": "Zastrzyk domięśniowy",
+   "pt": "Injeção intramuscular",
+   "ru": "Внутримышечная инъекция",
+   "sl": "Intramuskularna aplikacija",
+   "th": "การฉีดเข้ากล้ามเนื้อ",
+   "tr": "İntramüsküler enjeksiyon",
+   "uk": "Внутрішньом\\'язова ін\\'єкція",
+   "vi": "Tiêm bắp",
+   "zh": "肌肉注射"
+  }
+ },
+ {
+  "term": "Suppository",
+  "lang": {
+   "en": "Suppository",
+   "ar": "تحميلة (دواء)",
+   "bn": "সাপোজিটর",
+   "ca": "Supositori",
+   "cs": "Čípek (léková forma)",
+   "de": "Suppositorium",
+   "el": "Υπόθετο",
+   "es": "Supositorio",
+   "et": "Suposiit",
+   "eu": "Supositorio",
+   "fa": "شیاف",
+   "fi": "Suppo",
+   "fr": "Suppositoire",
+   "he": "פתילה (רפואה)",
+   "io": "Supozitorio",
+   "it": "Supposta",
+   "ja": "坐剤",
+   "ka": "სამედიცინო სანთლები",
+   "ko": "좌약",
+   "la": "Suppositorium",
+   "nl": "Zetpil",
+   "no": "Stikkpiller",
+   "pl": "Czopek (farmaceutyka)",
+   "ps": "شاپ",
+   "pt": "Supositório",
+   "ro": "Supozitor",
+   "ru": "Суппозитории",
+   "sl": "Svečka",
+   "su": "Supositoria",
+   "sv": "Stolpiller",
+   "tl": "Supositoryo",
+   "tr": "Supozituvar",
+   "uk": "Супозиторій",
+   "ur": "شافہ",
+   "vi": "Thuốc đặt",
+   "zh": "栓剂"
+  }
+ },
+ {
+  "term": "Dermis",
+  "lang": {
+   "en": "DermIS"
+  }
+ },
+ {
+  "term": "Transdermal patch",
+  "lang": {
+   "en": "Transdermal patch",
+   "ar": "لصاقة جلدية",
+   "de": "Transdermales Pflaster",
+   "el": "Έμπλαστρο",
+   "es": "Parche transdérmico",
+   "fr": "Timbre transdermique",
+   "it": "Cerotto transdermico",
+   "ja": "経皮吸収パッチ",
+   "ko": "경피 패치",
+   "nl": "Transdermale pleister",
+   "no": "Medisinsk plaster",
+   "pt": "Penso transdérmico",
+   "ro": "Plasture transdermic",
+   "ru": "Трансдермальная терапевтическая система",
+   "sh": "Transdermalni flaster",
+   "sl": "Transdermalni obliž",
+   "sr": "Transdermalni flaster",
+   "sv": "Depotplåster",
+   "uk": "Трансдермальна терапевтична система"
+  }
+ },
+ {
+  "term": "Topical medication",
+  "lang": {
+   "en": "Topical medication",
+   "ar": "دواء موضعي",
+   "ca": "Medicació tòpica",
+   "da": "Topikal administration",
+   "de": "Lokaltherapie",
+   "es": "Medicación tópica",
+   "fa": "داروی موضعی",
+   "fr": "Médicament topique",
+   "hr": "Lokalna terapija",
+   "io": "Unguento",
+   "ja": "外用薬",
+   "kn": "ಬಾಹ್ಯ ಔಷಧ",
+   "mzn": "ضماد",
+   "pt": "Medicamento tópico",
+   "ro": "Medicație topică",
+   "ru": "Мазевые основы",
+   "sh": "Topikalni lek",
+   "sl": "Topična uporaba zdravila",
+   "sr": "Topikalni lek",
+   "vi": "Thuốc tại chỗ",
+   "zh": "外用藥物"
+  }
+ },
+ {
+  "term": "Intraosseous infusion",
+  "lang": {
+   "en": "Intraosseous infusion",
+   "ar": "حقن داخل العظم",
+   "az": "Sümükdaxili",
+   "da": "Intraossøs infusion",
+   "de": "Intraossärer Zugang",
+   "es": "Infusión intraósea",
+   "fr": "Injection intraosseuse",
+   "nl": "Intraossale infusie",
+   "no": "Intraosseøs terapi",
+   "pl": "Infuzja doszpikowa",
+   "sr": "Intraosealni vaskularni pristup",
+   "zh": "骨內給藥"
+  }
+ },
+ {
+  "term": "Unguent",
+  "lang": {
+   "en": "Unguent",
+   "kn": "ಮುಲಾಮು"
+  }
+ },
+ {
+  "term": "Intrathecal administration",
+  "lang": {
+   "en": "Intrathecal administration",
+   "ar": "إعطاء داخل القراب",
+   "de": "Intrathekal",
+   "es": "Inyección intratecal",
+   "fa": "تزریق داخل‌نخاعی",
+   "fr": "Voie intrathécale",
+   "it": "Pompa intratecale",
+   "pt": "Injeção intratecal",
+   "sv": "Intratekal injektion",
+   "zh": "鞘内"
+  }
+ },
+ {
+  "term": "Sublingual administration",
+  "lang": {
+   "en": "Sublingual administration",
+   "ar": "إعطاء تحت اللسان",
+   "bs": "Sublingvalna primjena",
+   "ca": "Via sublingual",
+   "ckb": "دەرمانی ژێرزمان",
+   "de": "Sublingual",
+   "fa": "داروی زیرزبانی",
+   "fr": "Voie sublinguale",
+   "it": "Sublinguale",
+   "nl": "Sublinguale toediening",
+   "no": "Resoribletter",
+   "pt": "Via sublingual",
+   "ru": "Сублингвальный приём препаратов",
+   "sv": "Resoriblett",
+   "uk": "Сублінгвальне застосування лікарських засобів",
+   "zh": "口腔黏膜吸收"
+  }
+ },
+ {
+  "term": "Cerate",
+  "lang": {
+   "en": "Cerate",
+   "io": "Cerato"
+  }
+ },
+ {
+  "term": "Enteral administration",
+  "lang": {
+   "en": "Enteral administration",
+   "ar": "إعطاء معوي",
+   "de": "Enteral",
+   "es": "Nutrición enteral",
+   "fr": "Voie entérale",
+   "hr": "Enteralna primjena",
+   "sh": "Enteralna ishrana",
+   "sr": "Enteralna ishrana"
+  }
+ },
+ {
+  "term": "Modified-release dosage",
+  "lang": {
+   "en": "Modified-release dosage",
+   "ar": "جرعة معدلة التحرر"
+  }
+ },
+ {
+  "term": "Transdermal",
+  "lang": {
+   "en": "Transdermal",
+   "ar": "عبر الأدمة",
+   "bs": "Transkožna primjena",
+   "de": "Transdermal",
+   "es": "Vía transdérmica",
+   "fr": "Percutané",
+   "pt": "Via transdérmica"
+  }
+ },
+ {
+  "term": "Parachute (drugs)",
+  "lang": {
+   "en": "Parachute (drugs)",
+   "pt": "Parachute (drogas)"
+  }
+ },
+ {
+  "term": "Bolus (medicine)",
+  "lang": {
+   "en": "Bolus (medicine)",
+   "ar": "بلعة",
+   "bs": "Bolus (lijek)",
+   "de": "Bolus (Medizin)",
+   "es": "Bolus",
+   "fr": "Bolus (médecine)",
+   "ia": "Bolus",
+   "it": "Bolo",
+   "ja": "ボーラス投与",
+   "pl": "Bolus (medycyna)",
+   "pt": "Bolus (medicina)",
+   "ro": "Bolus (medicină)",
+   "simple": "Bolus"
+  }
+ },
+ {
+  "term": "Systemic administration",
+  "lang": {
+   "en": "Systemic administration",
+   "ar": "علاج جهازي",
+   "de": "Systemische Aufnahme",
+   "nl": "Systemische toediening",
+   "pl": "Ogólnoustrojowe leczenie nowotworów"
+  }
+ },
+ {
+  "term": "Limb perfusion",
+  "lang": {
+   "en": "Limb perfusion"
+  }
+ },
+ {
+  "term": "Magnetic-targeted carrier",
+  "lang": {
+   "en": "Magnetic-targeted carrier"
+  }
+ },
+ {
+  "term": "Intraperitoneal injection",
+  "lang": {
+   "en": "Intraperitoneal injection",
+   "ar": "حقن داخل الصفاق",
+   "de": "Intraperitoneal"
+  }
+ },
+ {
+  "term": "Microdispensing",
+  "lang": {
+   "en": "Microdispensing"
+  }
+ },
+ {
+  "term": "Infusion therapy",
+  "lang": {
+   "en": "Infusion therapy"
+  }
+ },
+ {
+  "term": "Intracavernous injection",
+  "lang": {
+   "en": "Intracavernous injection",
+   "ar": "حقن داخل الكهف"
+  }
+ },
+ {
+  "term": "Mucoadhesion",
+  "lang": {
+   "en": "Mucoadhesion",
+   "ru": "Мукоадгезия"
+  }
+ },
+ {
+  "term": "Powder mixture",
+  "lang": {
+   "en": "Powder mixture"
+  }
+ },
+ {
+  "term": "Nasal administration",
+  "lang": {
+   "en": "Nasal administration",
+   "ar": "إعطاء أنفي",
+   "bs": "Nosna primjena",
+   "es": "Vía inhalada",
+   "fa": "استعمال از بینی",
+   "fi": "Nasaalinen käyttö",
+   "fr": "Voie nasale",
+   "he": "הסנפה",
+   "id": "Pemberian hidung",
+   "ms": "Pemberian hidung",
+   "pt": "Via nasal",
+   "ur": "ناک میں قطرے",
+   "zh": "鼻腔给药"
+  }
+ },
+ {
+  "term": "Insufflation (medicine)",
+  "lang": {
+   "en": "Insufflation (medicine)",
+   "ar": "نفخ (طب)",
+   "da": "Snifning",
+   "fa": "دمیدن",
+   "fr": "Voie intranasale",
+   "pt": "Insuflação",
+   "ru": "Инсуффляция"
+  }
+ },
+ {
+  "term": "Subcutaneous infusion",
+  "lang": {
+   "en": "Subcutaneous infusion",
+   "ar": "تسريب تحت الجلد",
+   "he": "עירוי תת-עורי",
+   "ms": "Infusi subkutaneus",
+   "nl": "Hypodermoclyse",
+   "sh": "Supkutana infuzija"
+  }
+ },
+ {
+  "term": "Rectal administration",
+  "lang": {
+   "en": "Rectal administration",
+   "ar": "إعطاء الدواء مستقيميا",
+   "bs": "Rektalna primjena",
+   "fr": "Voie rectale",
+   "it": "Somministrazione rettale",
+   "nl": "Rectaal",
+   "pt": "Via retal",
+   "ru": "Ректальное введение препаратов",
+   "sr": "Rektalna primena leka"
+  }
+ },
+ {
+  "term": "Intravaginal administration",
+  "lang": {
+   "en": "Intravaginal administration",
+   "ar": "إعطاء الدواء عن طريق المهبل",
+   "es": "Vía intravaginal",
+   "fi": "Intravaginaalinen",
+   "fr": "Voie vaginale",
+   "ru": "Интравагинальный приём препаратов",
+   "tr": "İntravajinal uygulama",
+   "zh": "阴道内给药"
+  }
+ },
+ {
+  "term": "Sublabial administration",
+  "lang": {
+   "en": "Sublabial administration",
+   "ar": "إعطاء تحت الشفة"
+  }
+ },
+ {
+  "term": "Oral administration",
+  "lang": {
+   "en": "Oral administration",
+   "ar": "إعطاء فموي",
+   "bn": "মৌখিক ব্যবস্থাপনা",
+   "bs": "Oralna primjena",
+   "ca": "Via oral",
+   "ckb": "دەرمان لە ڕێگەی دەم",
+   "cs": "Perorální podání",
+   "da": "Peroral administration",
+   "de": "Peroral",
+   "fa": "تجویز دهانی دارو",
+   "fr": "Voie orale",
+   "hu": "Orális gyógyszerbevitel",
+   "it": "Somministrazione orale",
+   "nl": "Per os",
+   "no": "Peroral terapi",
+   "pt": "Via oral",
+   "ro": "Medicație orală",
+   "ru": "Пероральный приём лекарственных средств",
+   "sl": "Peroralna uporaba zdravila",
+   "sv": "Peroral",
+   "tr": "Oral uygulama",
+   "uk": "Пероральний прийом лікарських засобів",
+   "zh": "口服给药",
+   "zh-min-nan": "Lāi-ho̍k"
+  }
+ },
+ {
+  "term": "Intubation",
+  "lang": {
+   "en": "Intubation",
+   "ar": "التنبيب",
+   "ca": "Intubació",
+   "cs": "Intubace",
+   "de": "Intubation",
+   "es": "Intubación",
+   "fi": "Intubaatio",
+   "sr": "Intubacija",
+   "sv": "Intubation",
+   "tr": "Entübasyon",
+   "uk": "Інтубація",
+   "zh": "插管"
+  }
+ },
+ {
+  "term": "Ear instillation",
+  "lang": {
+   "en": "Ear instillation"
+  }
+ },
+ {
+  "term": "Drug delivery to the brain",
+  "lang": {
+   "en": "Drug delivery to the brain",
+   "de": "Konzepte zur Überwindung der Blut-Hirn-Schranke",
+   "fr": "Franchissement de la barrière hémato-encéphalique"
+  }
+ },
+ {
+  "term": "Isotropic formulations",
+  "lang": {
+   "en": "Isotropic formulations"
+  }
+ },
+ {
+  "term": "Y-Set (intravenous therapy)",
+  "lang": {
+   "en": "Y-Set (intravenous therapy)"
+  }
+ },
+ {
+  "term": "Buccal administration",
+  "lang": {
+   "en": "Buccal administration",
+   "ar": "إعطاء شدقي",
+   "fr": "Voie buccale",
+   "ru": "Трансбуккальный приём препаратов"
+  }
+ },
+ {
+  "term": "Macy catheter",
+  "lang": {
+   "en": "Macy catheter"
+  }
+ },
+ {
+  "term": "Intracerebroventricular injection",
+  "lang": {
+   "en": "Intracerebroventricular injection",
+   "ar": "حقن داخل البطينات الدماغية"
+  }
+ },
+ {
+  "term": "Ophthalmic drug administration",
+  "lang": {
+   "en": "Ophthalmic drug administration",
+   "ar": "إعطاء عيني",
+   "fa": "تجویز چشمی دارو"
+  }
+ },
+ {
+  "term": "Depot injection",
+  "lang": {
+   "en": "Depot injection",
+   "tr": "Depo iğne"
+  }
+ },
+ {
+  "term": "Topical drug delivery system",
+  "lang": {
+   "en": "Topical drug delivery system"
+  }
+ },
+ {
+  "term": "Intravenous therapy",
+  "lang": {
+   "en": "Intravenous therapy",
+   "ar": "معالجة وريدية",
+   "bg": "Интравенозна инфузия",
+   "bs": "Intravenozna terapija",
+   "ca": "Teràpia intravenosa",
+   "cdo": "Guá-bìng",
+   "cs": "Infuze",
+   "da": "Infusion",
+   "de": "Infusion",
+   "es": "Terapia intravenosa",
+   "fa": "تزریق وریدی",
+   "fi": "Infuusio",
+   "fr": "Perfusion intraveineuse",
+   "gl": "Terapia intravenosa",
+   "he": "עירוי",
+   "hi": "अन्तःशिरा चिकित्सा",
+   "hu": "Intravénás gyógyszeradagolás",
+   "id": "Infus",
+   "it": "Fleboclisi",
+   "ja": "点滴静脈注射",
+   "ko": "정맥 주사",
+   "ml": "ഡ്രിപ്പ്",
+   "ms": "Terapi dalam vena",
+   "nl": "Infuus",
+   "pl": "Wlew dożylny",
+   "pt": "Terapia intravenosa",
+   "ru": "Внутривенное вливание",
+   "sh": "Intravenozna terapija",
+   "simple": "Intravenous therapy",
+   "sk": "Infúzia",
+   "sl": "Intravenska uporaba zdravila",
+   "sr": "Intravenozna terapija",
+   "sv": "Infusion (medicin)",
+   "th": "การฉีดเข้าหลอดเลือดดำ",
+   "tr": "İntravenöz tedavi",
+   "uk": "Внутрішньовенна ін\\'єкція",
+   "vi": "Tiêm tĩnh mạch",
+   "zh": "靜脈注射",
+   "zh-yue": "吊鹽水"
+  }
+ },
+ {
+  "term": "Injection (medicine)",
+  "lang": {
+   "en": "Injection (medicine)",
+   "ar": "حقن (طب)",
+   "bn": "সূচিপ্রয়োগ",
+   "ca": "Injecció (medicina)",
+   "cs": "Injekce (medicína)",
+   "da": "Injektion",
+   "de": "Injektion (Medizin)",
+   "el": "Ένεση",
+   "eo": "Injekto",
+   "es": "Inyección (medicina)",
+   "fa": "تزریق (پزشکی)",
+   "fi": "Injektio (lääketiede)",
+   "fr": "Injection (médecine)",
+   "ga": "Instealladh",
+   "ha": "Allura",
+   "he": "זריקה",
+   "hi": "सूई लगाना",
+   "hu": "Injekció",
+   "id": "Penyuntikan",
+   "it": "Iniezione (medicina)",
+   "ja": "注射",
+   "kn": "ಚುಚ್ಚುಮದ್ದು",
+   "ko": "주사 (의학)",
+   "ky": "Иньекция",
+   "la": "Iniectio (medicina)",
+   "ms": "Suntikan (perubatan)",
+   "nl": "Injectie (geneeskunde)",
+   "no": "Injeksjon",
+   "pl": "Zastrzyk",
+   "ps": "پيچکاري",
+   "qu": "Akwa hirinka",
+   "ro": "Injecție (medicină)",
+   "ru": "Инъекция",
+   "simple": "Injection",
+   "sl": "Injekcija (medicina)",
+   "sr": "Инјекција (медицина)",
+   "sv": "Injektion (medicin)",
+   "te": "ఇంజెక్షన్",
+   "tr": "Enjeksiyon",
+   "uk": "Ін\\'єкція (медицина)",
+   "ur": "حقنہ",
+   "uz": "Inʼyeksiya",
+   "vi": "Tiêm (y tế)",
+   "zh": "注射",
+   "zh-min-nan": "Chù-siā",
+   "zh-yue": "打針"
+  }
+ },
+ {
+  "term": "Skin popping",
+  "lang": {
+   "en": "Skin popping",
+   "ro": "Skin popping"
+  }
+ },
+ {
+  "term": "Intradermal injection",
+  "lang": {
+   "en": "Intradermal injection",
+   "ar": "حقنة أدمية",
+   "ca": "Injecció intradèrmica",
+   "de": "Intrakutane Injektion",
+   "et": "Nahasisene süstimine",
+   "nl": "Intracutane injectie",
+   "pt": "Injeção intradérmica",
+   "th": "การฉีดเข้าชั้นผิวหนัง",
+   "tr": "İntradermal enjeksiyon",
+   "zh": "皮內注射"
+  }
+ },
+ {
+  "term": "Injectable birth control",
+  "lang": {
+   "en": "Injectable birth control"
+  }
+ },
+ {
+  "term": "Intravitreal injection",
+  "lang": {
+   "en": "Intravitreal injection",
+   "ar": "الحقن ضمن الجسم الزجاجي",
+   "fr": "Injection intravitréenne"
+  }
+ },
+ {
+  "term": "Total intravenous anaesthesia",
+  "lang": {
+   "en": "Total intravenous anaesthesia"
+  }
+ },
+ {
+  "term": "Nasal spray",
+  "lang": {
+   "en": "Nasal spray",
+   "ar": "بخاخ أنفي",
+   "de": "Nasenspray",
+   "fa": "افشانه بینی",
+   "fi": "Nenäsumute",
+   "fr": "Spray nasal",
+   "nl": "Neusspray",
+   "no": "Nesespray",
+   "ru": "Спрей для носа",
+   "sh": "Sprej za nos",
+   "sl": "Pršilo za nos",
+   "sr": "Sprej za nos",
+   "sv": "Nässprej",
+   "tr": "Burun spreyi",
+   "vi": "Thuốc xịt mũi"
+  }
+ },
+ {
+  "term": "Ketorolac",
+  "lang": {
+   "en": "Ketorolac",
+   "ar": "كيتورولاك",
+   "azb": "كيتورولاك",
+   "bn": "কিটোরোলাক",
+   "bs": "Ketorolak",
+   "de": "Ketorolac",
+   "es": "Ketorolaco",
+   "eu": "Ketorolako",
+   "fa": "کتورولاک",
+   "fi": "Ketorolaakki",
+   "fr": "Kétorolac",
+   "it": "Ketorolac",
+   "or": "କେଟୋରୋଲାକ",
+   "pt": "Cetorolaco de trometamina",
+   "ro": "Ketorolac",
+   "ru": "Кеторолак",
+   "sh": "Ketorolak",
+   "sr": "Ketorolak",
+   "sv": "Ketorolak",
+   "th": "คีโตโรแลค",
+   "uk": "Кеторолак",
+   "vi": "Ketorolac"
+  }
+ },
+ {
+  "term": "Flonase",
+  "lang": {
+   "en": "Flonase"
+  }
+ },
+ {
+  "term": "Fluticasone propionate",
+  "lang": {
+   "en": "Fluticasone propionate",
+   "ar": "بروبيونات الفلوتيكازون",
+   "de": "Fluticasonpropionat",
+   "ko": "프로파노산 플루티카손",
+   "or": "ଫ୍ଲୁଟିକାସୋନ ପ୍ରୋପିଓନେଟ",
+   "sh": "Flutikazon propionat",
+   "sr": "Flutikazon propionat",
+   "vi": "Fluticasone propionate"
+  }
+ },
+ {
+  "term": "Nasacort",
+  "lang": {
+   "en": "Nasacort"
+  }
+ },
+ {
+  "term": "Afrin (nasal spray)",
+  "lang": {
+   "en": "Afrin (nasal spray)"
+  }
+ },
+ {
+  "term": "Nicotine nasal spray",
+  "lang": {
+   "en": "Nicotine nasal spray"
+  }
+ },
+ {
+  "term": "DelNS1-2019-nCoV-RBD-OPT",
+  "lang": {
+   "en": "DelNS1-2019-nCoV-RBD-OPT",
+   "ar": "DelNS1-2019-nCoV-RBD-OPT",
+   "sr": "DelNS1-2019-nCoV-RBD-OPT",
+   "uk": "DelNS1-2019-nCoV-RBD-OPT",
+   "zh": "DelNS1-2019-nCoV-RBD-OPT"
+  }
+ },
+ {
+  "term": "Eye drop",
+  "lang": {
+   "en": "Eye drop",
+   "ar": "قطرة عين",
+   "cy": "Diferion llygaid",
+   "de": "Augentropfen",
+   "es": "Colirio",
+   "fa": "قطره چشم",
+   "fi": "Silmätippa",
+   "fr": "Collyre",
+   "he": "טיפות עיניים",
+   "hr": "Kapi za oči",
+   "id": "Tetes mata",
+   "io": "Kolirio",
+   "it": "Collirio",
+   "ja": "目薬",
+   "jv": "Tètès mata",
+   "ko": "안약",
+   "ml": "കണ്ണിലൊഴിക്കുന്ന തുള്ളിമരുന്നുകൾ",
+   "nl": "Oogdruppels",
+   "no": "Øyedråper",
+   "pl": "Krople do oczu",
+   "ps": "څاڅکي",
+   "pt": "Colírio",
+   "ro": "Colir",
+   "ru": "Глазные капли",
+   "sh": "Kapi za oči",
+   "simple": "Eye drop",
+   "sl": "Kapljice za oko",
+   "sr": "Kapi za oči",
+   "sv": "Ögondroppar",
+   "vi": "Thuốc nhỏ mắt",
+   "zh": "眼藥水"
+  }
+ },
+ {
+  "term": "Intravitreal administration",
+  "lang": {
+   "en": "Intravitreal administration",
+   "ar": "إعطاء الدواء داخل الجسم الزجاجي",
+   "de": "Intravitreal"
+  }
+ },
+ {
+  "term": "Retrobulbar block",
+  "lang": {
+   "en": "Retrobulbar block",
+   "hr": "Retrobulbarni blok",
+   "sr": "Ретробулбарни блок",
+   "uk": "Парабульбарна ін\\'єкція"
+  }
+ },
+ {
+  "term": "Intracameral injection",
+  "lang": {
+   "en": "Intracameral injection",
+   "ar": "حقن داخل الغرفة"
+  }
+ },
+ {
+  "term": "Suprachoroidal drug delivery",
+  "lang": {
+   "en": "Suprachoroidal drug delivery"
+  }
+ },
+ {
+  "term": "Periocular injection",
+  "lang": {
+   "en": "Periocular injection"
+  }
+ },
+ {
+  "term": "Subconjunctival injection",
+  "lang": {
+   "en": "Subconjunctival injection",
+   "pl": "Wstrzyknięcie podspojówkowe"
+  }
+ },
+ {
+  "term": "Sub-Tenon injection",
+  "lang": {
+   "en": "Sub-Tenon injection"
+  }
+ },
+ {
+  "term": "Supratarsal injection",
+  "lang": {
+   "en": "Supratarsal injection"
+  }
+ },
+ {
+  "total pages:": 71
+ }
+]

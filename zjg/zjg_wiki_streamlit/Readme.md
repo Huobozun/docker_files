@@ -1,0 +1,2 @@
+streamlit界面API,需要先将工作目录移动到/zjg_wiki_streamlit下,然后运行命令streamlit run show_streamlit_nm.py  
+然后就可以在本机的浏览器上用端口8051进行访问streamlit，进行wikipedia 相关category信息的查询  

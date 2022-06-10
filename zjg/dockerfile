@@ -1,0 +1,36 @@
+FROM python:3.9
+
+
+RUN mkdir /usr/local/zjg
+WORKDIR /usr/local/zjg
+RUN mkdir /usr/local/zjg/zjg_ngram_fredict
+RUN mkdir /usr/local/zjg/zjg_translate
+RUN mkdir /usr/local/zjg/zjg_UMLSfilter
+RUN mkdir /usr/local/zjg/zjg_wiki_ct
+RUN mkdir /usr/local/zjg/zjg_wiki_streamlit
+
+
+RUN pip install --upgrade pip
+
+
+RUN pip install numpy -i https://pypi.mirrors.ustc.edu.cn/simple/ --trusted-host pypi.mirrors.ustc.edu.cn
+RUN pip install pyahocorasick
+RUN pip install psutil
+RUN pip install streamlit -i https://pypi.mirrors.ustc.edu.cn/simple/ --trusted-host pypi.mirrors.ustc.edu.cn
+
+
+ADD zjg_ngram_fredict /usr/local/zjg/zjg_ngram_fredict
+ADD zjg_translate /usr/local/zjg/zjg_translate
+ADD zjg_UMLSfilter /usr/local/zjg/zjg_UMLSfilter
+ADD zjg_wiki_ct /usr/local/zjg/zjg_wiki_ct
+ADD zjg_wiki_streamlit /usr/local/zjg/zjg_wiki_streamlit
+ADD welcome.py /usr/local/zjg
+
+
+
+
+CMD python3 welcome.py
+
+
+
+
